@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+bcrypt
+python-jose[cryptography]
+cryptography
+python-multipart
+opencv-python
+numpy
+Pillow
+uuid6
+jinja2
+aiofiles
+python-dotenv
